@@ -5,7 +5,7 @@ I've implemented:
  - Abstract **Tree** contains:
    - **Name**,
    - **Trunk**,
-   - List of **branches**,
+   - List of **Branches**,
    - **grow()** abstract method,
    - **present()** abstract method.
  - **LeafyTree** (inherits from Tree) consist of:
