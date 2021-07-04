@@ -15,7 +15,7 @@ I've implemented:
    - List of **needles**,
    - **grow()** and **present()** methods implementation.
 
-I've also written Unit Tests (**TreeTest**, **LeafyTest**, **ConiferTest**) where I check if **grow()** implementation method works as I desired.
+I've also written Unit Tests (**TreeTest**, **LeafyTest**, **ConiferTest**) where I check if **grow()** implementation method works as I desired. For example if Tree has Trunk or if there any branches before leaves/needles growing.
 
 
 ## RESTApi
